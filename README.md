@@ -1,5 +1,5 @@
 # PathConverter
-##Windows to Linux shell path converter.
+## Windows to Linux shell path converter.
 
 A simple program that takes the path of a Windows directory as input and converts it into a directory for the Linux terminal.
 I created this simple program to go to a folder with a single instruction.
